@@ -26,4 +26,4 @@ services:
       - certbot-data:/var/www/certbot
 
 volumes:
-  cerbot-data:
+  certbot-data:
