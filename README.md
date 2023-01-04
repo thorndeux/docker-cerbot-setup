@@ -8,4 +8,4 @@ Adjusted and simplified from [original concept by Oussama Jarrousse](https://blo
 - Clone repository
 - Create folder `/etc/letsencrypt` on host
 - Make sure `setup.sh` is executable
-- Run `./setup.sh <mydomain.com> <myemail@email.com>` with your respective domain name and email address
+- Run `./setup.sh <mydomain.com> <myemail@email.com>` with your respective domain name and email address (sudo permission required)
